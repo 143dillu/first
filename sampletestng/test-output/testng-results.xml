@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-01T15:47:22 UTC" name="Default suite" finished-at="2026-02-01T15:47:22 UTC" duration-ms="52">
+    <groups>
+    </groups>
+    <test started-at="2026-02-01T15:47:22 UTC" name="Default test" finished-at="2026-02-01T15:47:22 UTC" duration-ms="52">
+      <class name="sampletestngpackage.basictestng">
+        <test-method signature="pkg1()[pri:0, instance:sampletestngpackage.basictestng@14dd9eb7]" started-at="2026-02-01T15:47:22 UTC" name="pkg1" finished-at="2026-02-01T15:47:22 UTC" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pkg1 -->
+        <test-method signature="pkg2()[pri:0, instance:sampletestngpackage.basictestng@14dd9eb7]" started-at="2026-02-01T15:47:22 UTC" name="pkg2" finished-at="2026-02-01T15:47:22 UTC" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pkg2 -->
+      </class> <!-- sampletestngpackage.basictestng -->
+      <class name="sampletestngpackage.come">
+        <test-method signature="pkg1()[pri:0, instance:sampletestngpackage.come@6dc17b83]" started-at="2026-02-01T15:47:22 UTC" name="pkg1" finished-at="2026-02-01T15:47:22 UTC" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pkg1 -->
+        <test-method signature="pkg2()[pri:0, instance:sampletestngpackage.come@6dc17b83]" started-at="2026-02-01T15:47:22 UTC" name="pkg2" finished-at="2026-02-01T15:47:22 UTC" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pkg2 -->
+        <test-method signature="pkg3()[pri:0, instance:sampletestngpackage.come@6dc17b83]" started-at="2026-02-01T15:47:22 UTC" name="pkg3" finished-at="2026-02-01T15:47:22 UTC" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pkg3 -->
+      </class> <!-- sampletestngpackage.come -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
